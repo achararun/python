@@ -106,6 +106,7 @@ def replace_line(file_name,line_num,text):
 replace_line('/Users/arunkkr/nullfromaddress.txt',15, 'DingoArun')
 
 '''
+'''
 with open('test.txt', 'r') as file :
   filedata = file.read()
 
@@ -115,6 +116,14 @@ filedata = filedata.replace(' Ding ', ' Arun ')
 # Write the file out again
 with open('file.txt', 'w') as file:
   file.write(filedata)
+
+'''
+
+### Enumerate Function####
+
+### zip Function ###
+
+### Try catch Final Else Function###
 
 
 
