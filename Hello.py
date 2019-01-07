@@ -7,6 +7,8 @@ import shutil
 import fileinput
 import logging
 from os import path
+
+#testing
 '''
 #### MAP Function#######
 ding = []
