@@ -8,6 +8,10 @@ import fileinput
 import logging
 from os import path
 
+'''
+Doc String
+'''
+
 #testing
 '''
 #### MAP Function#######
